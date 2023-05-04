@@ -1,7 +1,7 @@
 I'm a full stack web developer with experience in ASP.Net, C#, PostgreSQL, JavaScript, HTML, CSS, and Bootstrap5. I have completed a number of full stack projects and am currently working on building more large-scale projects for my portfolio.
 
 ## Portfolio
-Check out my [portfolio](https://oakesa.netlify.app/) to see some of my past work.
+Check out my [portfolio](https://oakesa.netlify.app/) to see some of my live projects.
 
 ## Seeking
 I am currently seeking remote full stack web developer positions that primarily use the ASP.Net and C# stack.
